@@ -45,9 +45,8 @@ npm start
 - **Real-time Conversion**: The converted amount updates in real-time as you input values.
 
 ## Screenshots
+![currcon](https://github.com/atulkashyap404/React-Project-2.1/assets/69070345/3e956161-4695-46e3-8075-f4f09c7585c9)
 
-![Screenshot 1](<screenshot-1-url>)
-![Screenshot 2](<screenshot-2-url>)
 
 ## Acknowledgments
 
